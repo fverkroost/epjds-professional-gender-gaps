@@ -1,0 +1,41 @@
+"Group","Category","Sex","Audience_total"
+"18-24","Age","Female",19611400
+"25-34","Age","Female",26750520
+"35-54","Age","Female",18997790
+"55+","Age","Female",4528180
+"Non-STEM","Company Industry STEM","Female",122503290
+"STEM","Company Industry STEM","Female",30590930
+"Non-STEM","Field of Study STEM","Female",73617200
+"STEM","Field of Study STEM","Female",17978350
+"Non-STEM","Job Function STEM","Female",106552840
+"STEM","Job Function STEM","Female",25401780
+"Chief X Officer (CxO)","Job seniority","Female",2007810
+"Director","Job seniority","Female",7147080
+"Entry-level","Job seniority","Female",55487000
+"Manager","Job seniority","Female",9655390
+"Owner","Job seniority","Female",5225780
+"Senior","Job seniority","Female",41330400
+"Training","Job seniority","Female",2816620
+"Vice President (VP)","Job seniority","Female",2383510
+"Partner","Job seniority","Female",691740
+"Unpaid","Job seniority","Female",2110270
+"18-24","Age","Male",23994720
+"25-34","Age","Male",32846980
+"35-54","Age","Male",28683110
+"55+","Age","Male",9607400
+"Non-STEM","Company Industry STEM","Male",151208140
+"STEM","Company Industry STEM","Male",66630940
+"Non-STEM","Field of Study STEM","Male",79251360
+"STEM","Field of Study STEM","Male",52533740
+"Non-STEM","Job Function STEM","Male",119801100
+"STEM","Job Function STEM","Male",62127000
+"Chief X Officer (CxO)","Job seniority","Male",6135270
+"Director","Job seniority","Male",13048690
+"Entry-level","Job seniority","Male",69429370
+"Manager","Job seniority","Male",18341370
+"Owner","Job seniority","Male",11131760
+"Senior","Job seniority","Male",50677840
+"Training","Job seniority","Male",3320130
+"Vice President (VP)","Job seniority","Male",6136660
+"Partner","Job seniority","Male",1788680
+"Unpaid","Job seniority","Male",2920160

@@ -126,7 +126,7 @@ g_log = boxdf %>%
   ggplot(., aes(x = interaction(Group, Category), y = sex_ratio_group, color = Category)) +
   geom_boxplot() +
   geom_text_repel(aes(label = outlier), na.rm = TRUE, hjust = -0.3) +
-  labs(x = NULL, y = "LinkedIn GGI", color = "Stratification") +
+  labs(x = NULL, y = "LinkedIn GGI (log-10 scale)", color = "Stratification") +
   my_theme() + 
   scale_x_discrete(labels = make_labels) + 
   theme(axis.text.x = element_text(angle = 30, hjust = 1)) +

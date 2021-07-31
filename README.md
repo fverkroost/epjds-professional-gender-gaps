@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-This code was written by Florianne Verkroost (florianne.verkroost (at) nuffield.ox.ac.uk), with input from Ridhi Kashyap (ridhi.kashyap (at) nuffield.ox.ac.uk). This `R` script contains the code necessary to generate the results discussed in the paper: "Analyzing global professional gender gaps using LinkedIn advertising data" by Ridhi Kashyap and Florianne Verkroost, EPJ Data Science.
+This code was written by Florianne Verkroost (florianne.verkroost (at) nuffield.ox.ac.uk), with input from Ridhi Kashyap (ridhi.kashyap (at) nuffield.ox.ac.uk). This `R` script contains the code necessary to generate the results discussed in the paper: Kashyap, R., Verkroost, F.C.J. Analysing global professional gender gaps using LinkedIn advertising data. EPJ Data Sci. 10, 39 (2021). https://doi.org/10.1140/epjds/s13688-021-00294-7
 
 This README file offers a brief overview of the `R` code (`script-epjds-external.R`) that executes the analyses described in the paper. The `R` script has been commented as much as possible to be helpful and understandable for external users. Please get in touch if any help is needed or something is not clear.
 
